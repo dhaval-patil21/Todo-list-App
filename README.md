@@ -7,7 +7,8 @@ Users can input tasks and mark tasks as completed. The app typically features an
 
 Additionally,this app is designed to improve productivity by providing a simple and accessible platform for users to track and accomplish their daily tasks and responsibilities.
 
-##Live Demo
+## Live Demo
 
 Check it out🚀:
+
 https://todo-listapp21.netlify.app/
